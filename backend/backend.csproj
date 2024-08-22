@@ -17,8 +17,4 @@
     <PackageReference Include="System.Threading.RateLimiting" Version="9.0.0-preview.7.24405.7" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

@@ -11,12 +11,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 //Registering Repositories
-builder.Services.AddScoped(IBaseRepository<>, BaseRepository<>);
-
+builder.Services.AddScoped<IBaseRepository<User>, UserRepository>();
+builder.Services.AddScoped<IBaseRepository<Project>, ProjectRepository>();
 
 //Regoistering Services
-builder.Services.AddScoped(IUserService, UserService);
-builder.Services.AddScoped(IProjectService, ProjectService);
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IProjectService, ProjectService>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

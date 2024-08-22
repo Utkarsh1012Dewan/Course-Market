@@ -7,29 +7,33 @@ namespace backend.Services
 {
     public class UserService : CommonService<User>, IUserService
     {
+        private readonly IBaseRepository<User> userRepository;
+
         public UserService(IBaseRepository<User> userRepository) : base(userRepository)
         {
-            
+            this.userRepository = userRepository;
         }
 
         public async Task<User> GetUserByIdAsync(string id)
         {
-            // Implementation logic for getting a user by ID
+            var response = await userRepository.GetByIdAsync(id);
+            return response;
         }
 
         public async Task<User> CreateUserAsync(User user)
         {
-            // Implementation logic for creating a user
+            var response = await userRepository.CreateItemAsync(user);
+            return response;
         }
 
         public async Task UpdateUserAsync(User user)
         {
-            // Implementation logic for updating a user
+            await userRepository.UpdateItemAsync(user);
         }
 
         public async Task DeleteUserByIdAsync(string id)
         {
-            // Implementation logic for deleting a user by ID
+            await userRepository.DeleteByIdAsync(id);
         }
     }
 }

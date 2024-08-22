@@ -13,24 +13,31 @@ namespace backend.Services
         {
             this.baseRepository = baseRepository;
         }
-        public Task<Project> CreateProjectAsync(Project project)
+        public async Task<Project> CreateProjectAsync(Project project)
         {
-            throw new NotImplementedException();
+            var response = await baseRepository.CreateItemAsync(project);
+            return response;
         }
 
-        public Task DeleteProjectByIdAsync(string id)
+        public async Task DeleteProjectByIdAsync(string id)
         {
-            throw new NotImplementedException();
+            await baseRepository.DeleteByIdAsync(id);
         }
 
-        public Task<Project> GetProjectByIdAsync(string id)
+        public async Task<Project> GetProjectByIdAsync(string id)
         {
-            throw new NotImplementedException();
+            var response = await baseRepository.GetByIdAsync(id);
+
+            if (response == null)
+            {
+                throw new Exception("Entity not found");
+            }
+            return response;
         }
 
-        public Task UpdateProjectAsync(Project project)
+        public async Task UpdateProjectAsync(Project project)
         {
-            throw new NotImplementedException();
+            await baseRepository.UpdateItemAsync(project);
         }
     }
 }

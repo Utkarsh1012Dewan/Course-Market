@@ -13,6 +13,8 @@ namespace backend.Repositories
             this.context = context;
         }
 
+        public abstract void AddId(T item);
+
         public async Task<T> CreateItemAsync(T item)
         {
             item.Id = Guid.NewGuid().ToString();
