@@ -13,13 +13,8 @@ namespace backend.Repositories
             this.context = context;
         }
 
-        public abstract void AddId(T item);
-
         public async Task<T> CreateItemAsync(T item)
-        {
-            item.Id = Guid.NewGuid().ToString();
-            item.createTime = DateTime.Now;
-            item.updateTime = DateTime.Now;
+        {   
             var response = await context.Set<T>().AddAsync(item);
             await context.SaveChangesAsync();
             return response.Entity;

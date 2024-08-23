@@ -1,10 +1,8 @@
-﻿using backend.Models.DTOs;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
-namespace backend.Models
+namespace backend.Models.DTOs
 {
-    public class Project : BaseModel
+    public class ProjectDTO
     {
         public required string Name { get; set; }
 
@@ -16,21 +14,23 @@ namespace backend.Models
         public required string Thumbnail { get; set; }
 
         //A list of urls of all the vidoes that are going to be part of the course
-        public required string Videos { get; set; }
+        public required List<string> Videos { get; set; }
 
         public required string Description { get; set; }
 
-        public ProjectDTO ToProjectDTO()
+        public Project ToProject()
         {
-            return new ProjectDTO
+            return new Project
             {
                 Name = Name,
                 Author = Author,
                 Category = Category,
                 Thumbnail = Thumbnail,
-                Videos = string.IsNullOrEmpty(Videos) ? null : JsonConvert.DeserializeObject<List<string>>(Videos),                
+                Videos = JsonConvert.SerializeObject(Videos),
                 Description = Description
             };
         }
     }
+
+    
 }

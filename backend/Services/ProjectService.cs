@@ -1,4 +1,5 @@
 ﻿using backend.Models;
+using backend.Models.DTOs;
 using backend.Repositories;
 using backend.Services.Common;
 using backend.Services.Interfaces;
@@ -13,9 +14,9 @@ namespace backend.Services
         {
             this.baseRepository = baseRepository;
         }
-        public async Task<Project> CreateProjectAsync(Project project)
+        public async Task<Project> CreateProjectAsync(ProjectDTO project)
         {
-            var response = await baseRepository.CreateItemAsync(project);
+            var response = await baseRepository.CreateItemAsync(project.ToProject());
             return response;
         }
 
@@ -35,9 +36,9 @@ namespace backend.Services
             return response;
         }
 
-        public async Task UpdateProjectAsync(Project project)
+        public async Task UpdateProjectAsync(ProjectDTO project)
         {
-            await baseRepository.UpdateItemAsync(project);
+            await baseRepository.UpdateItemAsync(project.ToProject());
         }
     }
 }

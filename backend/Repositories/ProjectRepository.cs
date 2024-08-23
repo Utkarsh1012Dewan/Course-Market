@@ -10,9 +10,5 @@ namespace backend.Repositories
 
         }
 
-        public override void AddId(Project item)
-        {
-            item.Id = Guid.NewGuid().ToString();
-        }
     }
 }

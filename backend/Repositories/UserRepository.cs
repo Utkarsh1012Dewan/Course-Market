@@ -11,9 +11,6 @@ namespace backend.Repositories
         {
             this.context = context ?? throw new ArgumentNullException(nameof(context));
         }
-        public override void AddId(User item)
-        {
-            item.Id = Guid.NewGuid().ToString();
-        }
+ 
     }
 }
