@@ -26,5 +26,26 @@ namespace backend.Controllers
             }
             return Ok(user);
         }
+
+        [HttpPost]
+        public async Task<ActionResult<User>> CreateUserAsync(User user)
+        {
+            var createdUser = await userService.CreateUserAsync(user);
+            return Ok(createdUser);
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<User>> UpdateUserAsync(User user)
+        {
+            await userService.UpdateUserAsync(user);
+            return Ok();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<User>> DeleteUserAsync(string id)
+        {
+            await userService.DeleteUserByIdAsync(id);
+            return Ok();
+        }
     }
 }

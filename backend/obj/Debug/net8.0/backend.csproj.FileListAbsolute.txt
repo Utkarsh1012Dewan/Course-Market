@@ -167,3 +167,4 @@ C:\Users\uttud\Desktop\web-development\Course Market\backend\bin\Debug\net8.0\ru
 C:\Users\uttud\Desktop\web-development\Course Market\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\uttud\Desktop\web-development\Course Market\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 C:\Users\uttud\Desktop\web-development\Course Market\backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\uttud\Desktop\web-development\Course Market\backend\obj\Debug\net8.0\backend.sourcelink.json
