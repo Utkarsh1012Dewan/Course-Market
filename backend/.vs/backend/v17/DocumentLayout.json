@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,6 +99,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -299,7 +303,7 @@
               "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\BaseRepository.cs",
               "RelativeToolTip": "Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAJAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T05:23:40.798Z",
               "EditorCaption": ""
