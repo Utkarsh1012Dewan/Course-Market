@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFAn7rYpXwY=",
+  "dgSpecHash": "2vBbd1hm5z0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uttud\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
@@ -51,6 +51,7 @@
     "C:\\Users\\uttud\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\mono.texttemplating\\3.0.0-preview-0052-g5d0f76c785\\mono.texttemplating.3.0.0-preview-0052-g5d0f76c785.nupkg.sha512",
+    "C:\\Users\\uttud\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

@@ -15,6 +15,9 @@ namespace backend.Repositories
 
         public async Task<T> CreateItemAsync(T item)
         {   
+            item.Id = Guid.NewGuid().ToString();
+            item.createTime = DateTime.UtcNow;
+            item.updateTime = DateTime.UtcNow;
             var response = await context.Set<T>().AddAsync(item);
             await context.SaveChangesAsync();
             return response.Entity;

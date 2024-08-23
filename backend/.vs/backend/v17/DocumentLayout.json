@@ -1,62 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\common\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\common\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\common\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\services\\common\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\common\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\common\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course market\\backend\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,121 +102,177 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "Context\\Context.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Context\\Context.cs",
+              "RelativeToolTip": "Context\\Context.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:02:27.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:50:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:49:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:49:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:31:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:34:20.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Controllers\\ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "Controllers\\ProjectController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAABUAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T05:44:19.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T19:04:32.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T19:04:32.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T16:03:41.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\ProjectRepository.cs",
               "RelativeToolTip": "Repositories\\ProjectRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T15:59:37.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\ProjectService.cs",
-              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\ProjectService.cs",
-              "RelativeToolTip": "Services\\ProjectService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwCcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T10:51:23.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Interfaces\\IProjectService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IProjectService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Interfaces\\IProjectService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IProjectService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T07:24:40.919Z"
+              "WhenOpened": "2024-08-22T15:59:37.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T07:10:57.783Z"
+              "WhenOpened": "2024-08-22T10:51:23.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T07:24:29.591Z"
+              "WhenOpened": "2024-08-22T07:24:40.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CommonService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Common\\CommonService.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Common\\CommonService.cs",
               "RelativeDocumentMoniker": "Services\\Common\\CommonService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Common\\CommonService.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Common\\CommonService.cs",
               "RelativeToolTip": "Services\\Common\\CommonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T07:16:00.482Z"
+              "WhenOpened": "2024-08-22T07:16:00.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ICommonService.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Common\\ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Common\\ICommonService.cs",
               "RelativeDocumentMoniker": "Services\\Common\\ICommonService.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Services\\Common\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\Common\\ICommonService.cs",
               "RelativeToolTip": "Services\\Common\\ICommonService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,51 +280,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\IBaseRepository.cs",
-              "RelativeToolTip": "Repositories\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:55:49.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T05:23:40.798Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "Repositories\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T06:42:18.5Z"
+              "WhenOpened": "2024-08-22T06:55:49.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "Models\\Project.cs",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course Market\\backend\\Models\\Project.cs",
-              "RelativeToolTip": "Models\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T05:31:40.798Z",
+              "WhenOpened": "2024-08-17T05:23:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:42:18.5Z",
               "EditorCaption": ""
             }
           ]
