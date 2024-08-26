@@ -1,8 +1,20 @@
-import React from 'react'
+import { Container, SimpleGrid } from "@chakra-ui/react"
+import CourseCard from "./CourseCard"
 
 const Home = () => {
     return (
-        <div>Home</div>
+        <Container className="mt-12" maxW="90%">
+            <SimpleGrid columns={[1, 2, 3, 4]} spacing={8} minChildWidth={"250px"} >
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+                <CourseCard />
+            </SimpleGrid >
+        </Container >
     )
 }
 
