@@ -13,5 +13,18 @@
         public required string EmailAddress { get; set; }
 
         public string? Profession { get; set; }
+
+        public User ToUser()
+        {
+            return new User
+            {
+                Firstname = Firstname,
+                Lastname = Lastname,
+                Username = Username,
+                Age = Age,
+                EmailAddress = EmailAddress,
+                Profession = Profession
+            };
+        }
     }
 }

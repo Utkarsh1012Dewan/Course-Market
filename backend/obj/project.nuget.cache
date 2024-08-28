@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2vBbd1hm5z0=",
+  "dgSpecHash": "lVzrLTBHVTM=",
   "success": true,
   "projectFilePath": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\uttud\\.nuget\\packages\\awssdk.core\\4.0.0-preview\\awssdk.core.4.0.0-preview.nupkg.sha512",
+    "C:\\Users\\uttud\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.0-preview\\awssdk.extensions.netcore.setup.4.0.0-preview.nupkg.sha512",
+    "C:\\Users\\uttud\\.nuget\\packages\\awssdk.s3\\4.0.0-preview\\awssdk.s3.4.0.0-preview.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
     "C:\\Users\\uttud\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

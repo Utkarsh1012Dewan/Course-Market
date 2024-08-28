@@ -2,6 +2,7 @@
 using backend.Models;
 using backend.Services.Common;
 using backend.Services.Interfaces;
+using backend.Models.DTOs;
 
 namespace backend.Services
 {
@@ -20,15 +21,15 @@ namespace backend.Services
             return response;
         }
 
-        public async Task<User> CreateUserAsync(User user)
+        public async Task<User> CreateUserAsync(UserDTO user)
         {
-            var response = await userRepository.CreateItemAsync(user);
+            var response = await userRepository.CreateItemAsync(user.ToUser());
             return response;
         }
 
-        public async Task UpdateUserAsync(User user)
+        public async Task UpdateUserAsync(UserDTO user)
         {
-            await userRepository.UpdateItemAsync(user);
+            await userRepository.UpdateItemAsync(user.ToUser());
         }
 
         public async Task DeleteUserByIdAsync(string id)

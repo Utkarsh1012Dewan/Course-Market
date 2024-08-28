@@ -339,3 +339,6 @@ C:\Users\uttud\Desktop\web-development\Course-Market\backend\obj\Debug\net8.0\ba
 C:\Users\uttud\Desktop\web-development\Course-Market\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\uttud\Desktop\web-development\Course-Market\backend\obj\Debug\net8.0\ref\backend.dll
 C:\Users\uttud\Desktop\web-development\Course-Market\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\uttud\Desktop\web-development\Course-Market\backend\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\uttud\Desktop\web-development\Course-Market\backend\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\uttud\Desktop\web-development\Course-Market\backend\bin\Debug\net8.0\AWSSDK.S3.dll

@@ -1,4 +1,5 @@
 ﻿using backend.Models;
+using backend.Models.DTOs;
 using backend.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,7 +17,7 @@ namespace backend.Controllers
             this.userService = userService;
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("/{id}")]
         public async Task<ActionResult<User>> GetUserByIdAsync(string id)
         {
             var user = await userService.GetUserByIdAsync(id);
@@ -27,15 +28,15 @@ namespace backend.Controllers
             return Ok(user);
         }
 
-        [HttpPost]
-        public async Task<ActionResult<User>> CreateUserAsync(User user)
+        [HttpPost("/{createProject}")]
+        public async Task<ActionResult<User>> CreateUserAsync(UserDTO user)
         {
             var createdUser = await userService.CreateUserAsync(user);
             return Ok(createdUser);
         }
 
         [HttpPut]
-        public async Task<ActionResult<User>> UpdateUserAsync(User user)
+        public async Task<ActionResult<User>> UpdateUserAsync(UserDTO user)
         {
             await userService.UpdateUserAsync(user);
             return Ok();

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using backend.Models.DTOs;
+using System.ComponentModel.DataAnnotations;
 
 namespace backend.Models
 {
@@ -15,5 +16,18 @@ namespace backend.Models
         public required string EmailAddress { get; set; }
 
         public string? Profession { get; set; }
+
+        public UserDTO ToUserDTO()
+        {
+            return new UserDTO
+            {
+                Firstname = Firstname,
+                Lastname = Lastname,
+                Username = Username,
+                Age = Age,
+                EmailAddress = EmailAddress,
+                Profession = Profession
+            };
+        }
     }
 }
