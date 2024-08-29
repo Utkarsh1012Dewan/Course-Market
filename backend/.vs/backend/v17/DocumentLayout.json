@@ -33,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 304,
+          "DockedHeight": 305,
           "SelectedChildIndex": 8,
           "Children": [
             {
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:54:42.201Z",
               "EditorCaption": ""
@@ -81,7 +81,7 @@
               "RelativeDocumentMoniker": "Services\\AWSS3Client\\IS3Service.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\IS3Service.cs",
               "RelativeToolTip": "Services\\AWSS3Client\\IS3Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:51:39.761Z",
               "EditorCaption": ""
@@ -94,22 +94,9 @@
               "RelativeDocumentMoniker": "Services\\AWSS3Client\\S3Service.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\S3Service.cs",
               "RelativeToolTip": "Services\\AWSS3Client\\S3Service.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAUwEAAAAApAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T16:47:23.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T12:51:10.082Z",
               "EditorCaption": ""
             },
             {
@@ -120,9 +107,22 @@
               "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "Controllers\\ProjectController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAswDYAAAAMAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwD0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T07:17:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T12:51:10.082Z",
               "EditorCaption": ""
             },
             {
@@ -140,7 +140,7 @@
           ]
         },
         {
-          "DockedHeight": 96,
+          "DockedHeight": 95,
           "SelectedChildIndex": -1,
           "Children": [
             {

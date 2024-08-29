@@ -7,6 +7,7 @@ using backend.Services.AWSS3Client;
 using backend.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Amazon.Extensions.NETCore.Setup;
+using Microsoft.AspNetCore.Http.Features;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +26,19 @@ builder.Services.AddScoped<IProjectService, ProjectService>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.Limits.MaxRequestBodySize = 1073741824;
+});
+
+builder.Services.Configure<FormOptions>(options =>
+{
+    options.ValueLengthLimit = int.MaxValue;
+    options.MultipartBodyLengthLimit = long.MaxValue;
+    options.MultipartHeadersLengthLimit = int.MaxValue;
+});
+
 builder.Services.AddDbContext<SQLDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));

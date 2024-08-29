@@ -52,8 +52,17 @@ namespace backend.Controllers
         [HttpPost("thumbnail")]
         public async Task<IActionResult> UploadThumbnailAsync(string courseName, IFormFile file)
         {
-            var response = await s3Service.UploadThumbnailAsync(file, courseName);
+            var bucketName = "course-market-public";
+            var response = await s3Service.UploadThumbnailAsync(file, courseName,bucketName);
             return Ok(response);
+        }
+
+        [HttpPost("{courseName}/videos")]
+        public async Task<List<string>> UploadVideosAsync(string courseName, IFormFileCollection files)
+        {
+            var bucketName = "course-market-videos";
+            var videos = await s3Service.UploadVideosAsync(files, courseName,bucketName);
+            return videos;
         }
     }
 }
