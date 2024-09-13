@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\awss3client\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\awss3client\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\awss3client\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\awss3client\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\services\\awss3client\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|solutionrelative:services\\awss3client\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB92A6F3-5AD1-4745-9515-9C22CFF1F017}|backend.csproj|c:\\users\\uttud\\desktop\\web-development\\course-market\\backend\\models\\videoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 305,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,59 +68,57 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAADAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:54:42.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "IS3Service.cs",
               "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\IS3Service.cs",
               "RelativeDocumentMoniker": "Services\\AWSS3Client\\IS3Service.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\IS3Service.cs",
               "RelativeToolTip": "Services\\AWSS3Client\\IS3Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:51:39.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "S3Service.cs",
               "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\S3Service.cs",
               "RelativeDocumentMoniker": "Services\\AWSS3Client\\S3Service.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Services\\AWSS3Client\\S3Service.cs",
               "RelativeToolTip": "Services\\AWSS3Client\\S3Service.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCoAAAAfAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T16:47:23.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T16:47:23.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "Controllers\\ProjectController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAiwD0AAAAIAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwD0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T07:17:39.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:17:39.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\uttud\\Desktop\\web-development\\Course-Market\\backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T12:51:10.082Z",
               "EditorCaption": ""
@@ -136,16 +134,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T17:30:37.579Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 95,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
