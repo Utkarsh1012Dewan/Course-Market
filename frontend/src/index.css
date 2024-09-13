@@ -79,3 +79,9 @@
   font-weight: 900;
   font-style: italic;
 }
+
+.borders {
+  border-color: black;
+  border-width: 10;
+  border-style: solid;
+}

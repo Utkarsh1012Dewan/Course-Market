@@ -5,6 +5,8 @@ import Signup from './Components/Signup'
 import Home from './Components/Home'
 import Navbar from './Components/Navbar'
 import CourseCard from './Components/CourseCard'
+import Profile from './Components/Profile'
+import CreateCourse from './Components/CreateCourse'
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
         <Route path='login' element={<Login />} />
         <Route path='signup' element={<Signup />} />
         <Route path='card' element={<CourseCard />} />
+        <Route path="profile" element={<Profile />} />
+        <Route path="addCourse" element={<CreateCourse />} />
       </Routes>
     </>
   )
