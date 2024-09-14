@@ -17,7 +17,7 @@ namespace backend.Controllers
             this.userService = userService;
         }
 
-        [HttpGet("/{id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<User>> GetUserByIdAsync(string id)
         {
             var user = await userService.GetUserByIdAsync(id);
@@ -28,7 +28,7 @@ namespace backend.Controllers
             return Ok(user);
         }
 
-        [HttpPost("/{createProject}")]
+        [HttpPost("/createUser")]
         public async Task<ActionResult<User>> CreateUserAsync(UserDTO user)
         {
             var createdUser = await userService.CreateUserAsync(user);

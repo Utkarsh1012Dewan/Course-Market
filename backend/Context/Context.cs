@@ -7,6 +7,7 @@
     {
         DbSet<User> User { get; set; }
         DbSet<Project> Project { get; set; }
+        DbSet<Video> Video { get; set; }
 
         public SQLDbContext(DbContextOptions<SQLDbContext> dbContextOptions) : base(dbContextOptions)
         {
@@ -18,6 +19,8 @@
             modelBuilder.Entity<User>().ToTable("User");
             
             modelBuilder.Entity<Project>().ToTable("Project");
+
+            modelBuilder.Entity<Video>().ToTable("Video");
             
             base.OnModelCreating(modelBuilder);
         }

@@ -15,9 +15,6 @@ namespace backend.Models
         //This is going to be a URL from abs buckets
         public required string Thumbnail { get; set; }
 
-        //A list of urls of all the vidoes that are going to be part of the course
-        public required string Videos { get; set; }
-
         public required string Description { get; set; }
 
         public ProjectDTO ToProjectDTO()
@@ -28,7 +25,6 @@ namespace backend.Models
                 Author = Author,
                 Category = Category,
                 Thumbnail = Thumbnail,
-                Videos = string.IsNullOrEmpty(Videos) ? null : JsonConvert.DeserializeObject<List<string>>(Videos),                
                 Description = Description
             };
         }

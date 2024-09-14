@@ -12,5 +12,5 @@ namespace backend.Repositories
             this.context = context ?? throw new ArgumentNullException(nameof(context));
         }
  
-    }
+    } 
 }
